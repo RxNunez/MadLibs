@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MadLibs</string>
+    <string name="hint_noun">Noun</string>
+    <string name="hint_verb">Verb</string>
+    <string name="hint_adjective">Adjective</string>
+    <string name="hint_adverb">Adverb</string>
+</resources>
